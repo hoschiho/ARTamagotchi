@@ -1,0 +1,4 @@
+#Sun Dec 13 14:25:30 CET 2020
+base.0=/Users/pascalhostettler/Development/Unity/AR Tamagotchi/Temp/gradleOut/launcher/build/intermediates/dex/release/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
